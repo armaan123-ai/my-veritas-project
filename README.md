@@ -1,6 +1,8 @@
 # VERITAS — AI-Powered Criminal Network Analysis & Intelligence Platform
 
 > **KAYA Hackathon 2026** // Transforming fragmented law enforcement records into an explainable relationship graph to uncover hidden syndicates, financial trails, and criminal networks.
+>
+> **Repository note:** This copy is maintained under [`armaan123-ai`](https://github.com/armaan123-ai) and is cloned from [`amanpal3/VERITAS-`](https://github.com/amanpal3/VERITAS-). The original history, team credits, and MIT license are retained.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
