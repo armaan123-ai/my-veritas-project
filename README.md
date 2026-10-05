@@ -1,8 +1,10 @@
-# VERITAS — AI-Powered Criminal Network Analysis & Intelligence Platform
+<div align="center">
 
-> **KAYA Hackathon 2026** // Transforming fragmented law enforcement records into an explainable relationship graph to uncover hidden syndicates, financial trails, and criminal networks.
->
-> **Repository note:** This copy is maintained under [`armaan123-ai`](https://github.com/armaan123-ai) and is cloned from [`amanpal3/VERITAS-`](https://github.com/amanpal3/VERITAS-). The original history, team credits, and MIT license are retained.
+# VERITAS
+
+### AI-Powered Criminal Network Analysis & Intelligence Platform
+
+**KAYA Hackathon 2026** · Transforming fragmented law enforcement records into an explainable relationship graph to uncover hidden syndicates, financial trails, and criminal networks.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg)](https://fastapi.tiangolo.com/)
@@ -13,6 +15,12 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4%2B-38B2AC.svg)](https://tailwindcss.com/)
 [![Tests: 130 Passed](https://img.shields.io/badge/Tests-130%20Passed%20(100%25)-brightgreen.svg)](tests/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+**Maintainer:** [@armaan123-ai](https://github.com/armaan123-ai) · **Upstream project:** [amanpal3/VERITAS-](https://github.com/amanpal3/VERITAS-)
+
+Original commit history, team credits, and the MIT license are retained.
+
+</div>
 
 ---
 
